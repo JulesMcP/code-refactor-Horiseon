@@ -133,6 +133,7 @@ p {
     font-size: 36px;
 }
 
+/* Begin benefits styles */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -159,6 +160,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* footer styles */
 .footer {
     padding: 30px;
     clear: both;
