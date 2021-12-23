@@ -12,4 +12,4 @@ Screenshots
 
 Link
 
-file:///C:/Users/rogue/OneDrive/Desktop/projects/code-refactor-Horiseon/Develop/index.html
+https://julesmcp.github.io/code-refactor-Horiseon/
